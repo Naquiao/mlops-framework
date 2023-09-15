@@ -81,7 +81,7 @@
     "post_processing": {
         "knn_container_name": "dev-top-recommendations-securityid",
         "knn_model_name": "top-recommendations-securityid",
-        "sfn_fargate_arn": "arn:aws:states:us-east-1:204991841662:stateMachine:dev-balanz-mlops-sfn-fargate"
+        "sfn_fargate_arn": "arn:aws:states:us-east-1:204991841662:stateMachine:dev-aws-mlops-sfn-fargate"
     },
     "enable_tuner": false,
     "enable_monitoring": false,
@@ -95,12 +95,12 @@
     "security_group_ids": ["sg-00499125cafc57903"],
     "tags": [
         {"Key": "Name", "Value": "dev-default"},
-        {"Key": "costCenter", "Value": "balanz"},
+        {"Key": "costCenter", "Value": "aws"},
         {"Key": "environment", "Value": "dev"},
         {"Key": "expirationDate", "Value": "01/01/2032"},
-        {"Key": "owner", "Value": "balanz"},
+        {"Key": "owner", "Value": "aws"},
         {"Key": "prefix", "Value": "dev"},
-        {"Key": "project", "Value": "balanz-mlops"},
+        {"Key": "project", "Value": "aws-mlops"},
         {"Key": "role", "Value": "default"},
         {"Key": "tagVersion", "Value": "1"},
         {"Key": "created_by", "Value": "fargate"}
