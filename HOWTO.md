@@ -14,15 +14,15 @@
 
 2. Build the docker image standing from the root directory of this repository (the version `latest` can be change to another if needed. Consider that the fargate revision task should match with the version):
 
-    `docker build -t dev/services/balanz-mlops:latest .`
+    `docker build -t dev/services/aws-mlops:latest .`
 
 3. Tag the image
 
-    `docker tag dev/services/balanz-mlops:latest 204991841662.dkr.ecr.us-east-1.amazonaws.com/dev/services/balanz-mlops:latest`
+    `docker tag dev/services/aws-mlops:latest 204991841662.dkr.ecr.us-east-1.amazonaws.com/dev/services/aws-mlops:latest`
 
 4. Push into ECR
 
-    `docker push 204991841662.dkr.ecr.us-east-1.amazonaws.com/dev/services/balanz-mlops:latest`
+    `docker push 204991841662.dkr.ecr.us-east-1.amazonaws.com/dev/services/aws-mlops:latest`
 
 5. Optional: use the script [buildpush.sh](buildpush.sh) instead to execute this procedure.
 
