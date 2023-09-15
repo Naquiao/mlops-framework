@@ -1,16 +1,9 @@
-# balanz-mlops-fargate
+# aws-mlops-fargate
 
-https://github.com/Naquiao/mlops-framework/blob/main/docs/flow-diagram.png
-![Overview]([http://url/to/img.png](https://github.com/Naquiao/mlops-framework/blob/main/docs/flow-diagram.png))
-This repo is used for generate Balanz machine learning models.
 
-For more information about how the infra behind this works, please refer to: [balanz-mlops-terraform/README](https://www.balanz.com/bitbucket/projects/BAL-DL/repos/balanz-mlops-terraform/browse/README.md)
+![plot]([./directory_1/directory_2/.../directory_n/plot.png](https://github.com/Naquiao/mlops-framework/blob/main/docs/flow-diagram.png))
 
-For more information about how to run and troubleshoot models, please refer to: [balanz-mlops-terraform/USAGE](https://www.balanz.com/bitbucket/projects/BAL-DL/repos/balanz-mlops-terraform/browse/USAGE.md)
-
-For more information about the Model Config file, please refer to: [CONFIG.md](https://www.balanz.com/bitbucket/projects/BAL-DL/repos/balanz-mlops-fargate/browse/CONFIG.md)
-
-For more information about the Environment Variables, please refer to: [ENVVARIABLES.md](https://www.balanz.com/bitbucket/projects/BAL-DL/repos/balanz-mlops-fargate/browse/ENVVARIABLES.md)
+This repo is used for generate aws machine learning models.
 
 ## Diagram
 
