@@ -1,5 +1,7 @@
 # balanz-mlops-fargate
 
+https://github.com/Naquiao/mlops-framework/blob/main/docs/flow-diagram.png
+![Overview]([http://url/to/img.png](https://github.com/Naquiao/mlops-framework/blob/main/docs/flow-diagram.png))
 This repo is used for generate Balanz machine learning models.
 
 For more information about how the infra behind this works, please refer to: [balanz-mlops-terraform/README](https://www.balanz.com/bitbucket/projects/BAL-DL/repos/balanz-mlops-terraform/browse/README.md)
