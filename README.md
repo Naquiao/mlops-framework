@@ -1,7 +1,6 @@
 # aws-mlops-fargate
 
 
-![plot]([./directory_1/directory_2/.../directory_n/plot.png](https://github.com/Naquiao/mlops-framework/blob/main/docs/flow-diagram.png))
 
 This repo is used for generate aws machine learning models.
 
