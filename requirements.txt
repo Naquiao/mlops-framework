@@ -1,0 +1,11 @@
+pandas
+boto3
+sagemaker
+numpy
+sklearn
+jsonlines
+scipy
+fastparquet
+awswrangler
+s3fs
+mxnet
